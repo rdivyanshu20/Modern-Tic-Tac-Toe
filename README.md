@@ -11,7 +11,7 @@ Unlike legacy academic implementations, this project leverages a strict **Model-
 <div align="center">
   </div>
 
-## ✨ Features
+## Features
 
 * **Modern Flat UI:** Utilizes a carefully curated dark-mode color palette with pastel accents, ditching the outdated 90s grid lines for clean, component-based spacing.
 * **Zero Dependencies:** Built entirely on Python's standard library (`tkinter`). No `pip install` required.
@@ -19,7 +19,7 @@ Unlike legacy academic implementations, this project leverages a strict **Model-
 * **Production-Ready Code:** Fully type-hinted (`typing` module) and documented, adhering to PEP 8 standards.
 * **Defensive Design:** Prevents illegal moves, multi-clicks, and state corruption during gameplay.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 You only need Python installed on your system (Version 3.8 or higher is recommended to support modern type hints).
